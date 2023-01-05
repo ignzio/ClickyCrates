@@ -1,7 +1,7 @@
 # ClickyCrates
 A simple game where you click objects to earn points and avoid clicking the wrong objects to avoid losing points.
 
-#Getting Started
+# Getting Started
 To get the game up and running on your local machine, follow these steps:
 
 Clone or download the repository onto your local machine.
@@ -13,5 +13,5 @@ You will need to have Unity installed on your machine in order to open and run t
 You can also play the game online by visiting the following link: <a href="https://play.unity.com/mg/other/webgl-builds-292949">Play Clicky Crates</a>
 
 
-#Built With
+# Built With
 Unity - The game engine used
